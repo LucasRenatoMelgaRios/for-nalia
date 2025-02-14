@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import styled, { createGlobalStyle } from "styled-components";
 import { FaHeart } from "react-icons/fa";
 import useSound from "use-sound";
-import music from "./assets/bossa.m4a";
+import music from "./assets/bossa2.m4a";
 import BounceCards from "./components/BounceCards";
 import { LuCandy } from "react-icons/lu";
 import img1 from "../src/assets/image1.jpg"
